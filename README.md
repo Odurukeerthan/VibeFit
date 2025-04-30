@@ -1,0 +1,54 @@
+# VibeFit
+Android application built using Java.
+Mini Project for 6th Semester
+
+# Description
+VibeFit is an Android application developed using Java with Firebase as the backend. The app includes the following features:
+
+# BMI Calculator
+
+# Motivational Quotes
+
+# Music redirection to Spotify
+
+# Diet and Fitness Tips via WebView
+
+# User Registration and Login (with Google Sign-In)
+
+# Screenshots
+<img src="screenshots/s1.jpg" height="400" width="200"> <img src="screenshots/s2.jpg" height="400" width="200"> <img src="screenshots/s3.jpg" height="400" width="200"> <img src="screenshots/s4.jpg" height="400" width="200"> <img src="screenshots/splash.gif" width="250"/> <img src="screenshots/workout.gif" width="250"/> <img src="screenshots/register.gif" width="250"/>
+Getting Started
+Installing
+You can install the app from the Releases section.
+
+# Dependencies
+Below are the dependencies used in the project:
+
+gradle
+# Copy code
+implementation 'androidx.appcompat:appcompat:1.4.1'
+implementation 'com.google.android.material:material:1.5.0'
+implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+implementation 'com.google.firebase:firebase-auth:21.0.3'
+implementation 'com.google.firebase:firebase-firestore:24.1.1'
+testImplementation 'junit:junit:4.13.2'
+androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+implementation 'com.github.ibrahimsn98:SmoothBottomBar:1.7.9'
+implementation 'com.airbnb.android:lottie:5.0.3'
+implementation platform('com.google.firebase:firebase-bom:29.3.1')
+implementation 'com.google.android.gms:play-services-auth:20.2.0'
+implementation 'com.google.firebase:firebase-database'
+implementation 'com.google.firebase:firebase-analytics'
+implementation 'com.google.firebase:firebase-messaging'
+# Authors
+Shiva Kumar Uppara
+
+Keerthan Oduru
+
+GVS Koushik
+
+Somasekar
+
+Sukesh Kumar
